@@ -26,5 +26,5 @@ Then install the dependencies in pipfile:
 Run:
 
 ```sh
-(env)$  python Interview-test.py 
+(env)$  python interview-test.py 
 ```
